@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Heddxh's excerpt',
+  title: "Heddxh's excerpt",
   author: 'Heddxh',
   email: 'g311571057@gmail.com',
   link: 'https://nobelium.vercel.app',
